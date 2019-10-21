@@ -1,0 +1,12 @@
+name: ShIMIE
+main: zedly.shimie.ShIMIE
+version: 6.9.420
+api-version: 1.14
+commands:
+  sh:
+    description: 
+    usage: /sh
+
+permissions:
+  shimie.shimie:
+    default: false
